@@ -1,0 +1,5 @@
+C:\Users\Alex\documents\visual studio 2015\Projects\OverwatchBan\OverwatchLibary\bin\Debug\OverwatchLibary.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\OverwatchBan\OverwatchLibary\bin\Debug\OverwatchLibary.pdb
+C:\Users\Alex\documents\visual studio 2015\Projects\OverwatchBan\OverwatchLibary\obj\Debug\OverwatchLibary.csprojResolveAssemblyReference.cache
+C:\Users\Alex\documents\visual studio 2015\Projects\OverwatchBan\OverwatchLibary\obj\Debug\OverwatchLibary.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\OverwatchBan\OverwatchLibary\obj\Debug\OverwatchLibary.pdb

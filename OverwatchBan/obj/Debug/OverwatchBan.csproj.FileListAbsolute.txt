@@ -1,0 +1,14 @@
+c:\users\alex\documents\visual studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Debug\Assembly-CSharp-firstpass.dll
+c:\users\alex\documents\visual studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Debug\Assembly-CSharp.dll
+c:\users\alex\documents\visual studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Debug\Rocket.API.dll
+c:\users\alex\documents\visual studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Debug\Rocket.Core.dll
+c:\users\alex\documents\visual studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Debug\Rocket.Unturned.dll
+c:\users\alex\documents\visual studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Debug\UnityEngine.dll
+c:\users\alex\documents\visual studio 2015\Projects\OverwatchBan\OverwatchBan\obj\Debug\OverwatchBan.csprojResolveAssemblyReference.cache
+C:\Users\Alex\documents\visual studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Debug\I18N.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Debug\I18N.West.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Debug\MySql.Data.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Debug\Overwatch.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Debug\Overwatch.pdb
+C:\Users\Alex\documents\visual studio 2015\Projects\OverwatchBan\OverwatchBan\obj\Debug\Overwatch.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\OverwatchBan\OverwatchBan\obj\Debug\Overwatch.pdb
