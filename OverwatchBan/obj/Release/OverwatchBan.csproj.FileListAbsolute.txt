@@ -1,0 +1,13 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Release\Overwatch.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Release\Overwatch.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Release\Assembly-CSharp.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Release\I18N.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Release\I18N.West.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Release\MySql.Data.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Release\Rocket.API.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Release\Rocket.Core.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Release\Rocket.Unturned.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OverwatchBan\OverwatchBan\bin\Release\UnityEngine.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OverwatchBan\OverwatchBan\obj\Release\Overwatch.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\OverwatchBan\OverwatchBan\obj\Release\Overwatch.pdb
